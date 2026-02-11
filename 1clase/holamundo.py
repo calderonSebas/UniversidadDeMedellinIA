@@ -1,2 +1,2 @@
-print["hola mundo"]
-print["Soy Sebastian"]
+print("hola mundo")
+print("Soy Sebastian")
